@@ -41,40 +41,40 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //owmner v card
 //________________________________________________________________________________________________________
-global.ytname = process.env.YT_NAME || "YT: S4 Salman YT" //ur yt chanel name
+global.ytname = process.env.YT_NAME || "Richie's Circle" //ur yt chanel name
 //________________________________________________________________________________________________________
-global.socialm = process.env.MEDIA || "GitHub: salmanytofficial" //ur github or insta name
+global.socialm = process.env.MEDIA || "GitHub: Richieeee07" //ur github or insta name
 //________________________________________________________________________________________________________
-global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur location
+global.location = process.env.GL_INFO || "Nigeria, Lagos" //ur location
 //________________________________________________________________________________________________________
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'XLICON-V3-MD' //ur bot name
+global.botname = process.env.BOT_NAME || '𝑅𝛪𝐶𝛨𝛪𝛯'𝑆 𝐵𝛩𝑇🤖✨' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '923184070915' //ur owner number
+global.ownernumber = process.env.SUDO || '2349069124958' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'Salman Ahmad' //ur owner name
+global.ownername = process.env.SUDO_NAME || '𝞒𝞘𝘾𝞖𝞘𝞢✨' //ur owner name
 //________________________________________________________________________________________________________
-global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
+global.websitex = process.env.YT_LINK || "https://chat.whatsapp.com/I2SeBXj8H4Q47EbSFYdaIK"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
+global.wagc = process.env.GL_PUSH || "https://wa.link/cwrw43"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
-global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
+global.wm = process.env.GL_WM || "© 𝑅𝛪𝐶𝛨𝛪𝛯'𝑆 𝐵𝛩𝑇🤖✨"
 //________________________________________________________________________________________________________
-global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
+global.botscript = process.env.GL_SC || 'https://github.com/Richieeee07/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+global.packname = process.env.PACK_NAME || "𝑅𝛪𝐶𝛨𝛪𝛯'𝑆 𝐵𝛩𝑇🤖✨"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
+global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝞒𝞘𝘾𝞖𝞘𝞢✨"
 //________________________________________________________________________________________________________
-global.creator = process.env.GL_DEVS || "923184070915@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "2349069124958@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["923184070915"] // Premium User
+global.premium = process.env.GL_VIP || ["2349069124958"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
@@ -89,15 +89,15 @@ global.autoblocknumber = process.env.AUTO_BAN || '212' //set autoblock country c
 //________________________________________________________________________________________________________
 global.antiforeignnumber = process.env.AUTO_BLOCK || '212' //set anti foreign number country code
 //________________________________________________________________________________________________________
-global.welcome = process.env.WELCOME_MSG || true //welcome/left in groups
+global.welcome = process.env.WELCOME_MSG || false //welcome/left in groups
 //________________________________________________________________________________________________________
 global.anticall = process.env.GL_NOCALL || false //bot blocks user when called
 //________________________________________________________________________________________________________
 global.autoswview = process.env.AUTO_STATUS_SEEN || true //auto status/story view
 //________________________________________________________________________________________________________
-global.adminevent = process.env.ANNOUNCE_MSG  || true //show promote/demote message
+global.adminevent = process.env.ANNOUNCE_MSG  || false //show promote/demote message
 //________________________________________________________________________________________________________
-global.groupevent = process.env.GROUP_ANNOUNCE_MSG || true //show update messages in group chat
+global.groupevent = process.env.GROUP_ANNOUNCE_MSG || false //show update messages in group chat
 //________________________________________________________________________________________________________
 
 
